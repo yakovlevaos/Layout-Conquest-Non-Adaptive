@@ -1,0 +1,19 @@
+{
+  "name": "layout-conquest",
+  "version": "1.0.0",
+  "description": "layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yakovlevaos/layout-conquest-non-adaptive.git"
+  },
+  "author": "Olga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yakovlevaos/layout-conquest-non-adaptive/issues"
+  },
+  "homepage": "https://github.com/yakovlevaos/layout-conquest-non-adaptive#readme"
+}
